@@ -1,0 +1,14 @@
+.day {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.month {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.year {
+    font-size: 32px;
+    font-weight: normal;
+}
